@@ -1,7 +1,7 @@
 # **Basic Mod**
 
-![GitHub all releases](https://img.shields.io/github/downloads/R7ANBTWTTV/Basic-Venge-Mod/total)
-[![Download Latest](https://img.shields.io/github/v/release/R7ANBTWTTV/Basic-Venge-Mod?label=Download%20Latest)](https://github.com/R7ANBTWTTV/Basic-Venge-Mod/releases/tag/Basic-Mod)
+![GitHub all releases](https://img.shields.io/github/downloads/R7ANBTWTTV/BaseModVenge0.1/total)
+[![Download Latest](https://img.shields.io/github/v/release/R7ANBTWTTV/Basic-Venge-Mod?label=Download%20Latest)](https://github.com/R7ANBTWTTV/Basic-Venge-Mod/releases/tag/BaseModVenge0.1)
 
 ## **📌 About the Mod**
 "Basic Mod" is a base mod for players getting started to make new mods.
